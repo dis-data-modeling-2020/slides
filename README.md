@@ -12,4 +12,4 @@ Please feel free to comment on all the slides available. Open up a ticket if you
 
 The following slide sets are available:
 
-* Introduction [[pdf](DIS08-01-introduction.pdf)] | [[video]()]
+* Introduction [[pdf](DIS08-01-introduction.pdf)] | [[video](https://youtu.be/RbuWN0Ag-jU)]
