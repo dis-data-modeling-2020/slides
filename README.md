@@ -15,12 +15,12 @@ The following slide sets are available:
 
 ## Assessments
 
-Each week we will release a set of exercises grouped into so-called assessments. 
+Each week we will release a set of exercises grouped into assessments. 
 
 ### Assignment 1
 
-* [GitHub and Markdown](assignment1#exercise-1)
-* [Unix Shell](assignment1#exercise-2)
+* [GitHub and Markdown](assignment1.md#exercise-1)
+* [Unix Shell](assignment1.md#exercise-2)
 
 ## Syllabus
 
