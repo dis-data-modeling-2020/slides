@@ -11,7 +11,7 @@ Please feel free to comment on all the slides available. Open up a ticket if you
 The following slide sets are available:
 
 * __01 Introduction, Markdown__ [[pdf](DIS08-01-introduction.pdf)] | [[video](https://youtu.be/RbuWN0Ag-jU)]
-* __02 Unix Shell__ [[pdf](DIS08-02-shell.pdf)] | [[video](https://www.youtube.com/watch?v=Z2w8fKnrw0w)] | [[setup the shell](https://librarycarpentry.org/lc-shell/setup.html)]
+* __02 Unix Shell__ [[pdf](DIS08-02-shell.pdf)] | [[video](https://www.youtube.com/watch?v=Z2w8fKnrw0w)] | [[setup the shell](https://librarycarpentry.org/lc-shell/setup.html)] | [[dataset](https://librarycarpentry.org/lc-shell/data/shell-lesson.zip)]
 
 ## Assessments
 
