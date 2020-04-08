@@ -27,7 +27,7 @@ Complete the lessons from the interactive online course at [linuxjourney.com](ht
 
 Prove your completion with a photo that shows your student ID card and the correct results of the quizes. Make at least 3 photos according to the three digits of your student ID. For example: Your student ID is 1110341 -> Photos of exercises 3, 4, and 1. 
 
-### Task 1
+### Task 2
 Building on exercise 1: Use your new knowledge to count the number of lines in your `introduction.md` file from exercise 1.
 Redirect the result to a file, e.g. `lines.txt`.
 Print the content of the file to the console.
