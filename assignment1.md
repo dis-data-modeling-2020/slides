@@ -34,5 +34,5 @@ Print the content of the file to the console.
 
 To submit your solution, copy the commands and their outputs from the shell (including prompt) to a new *markdown-formated file* `exercise2.md`. Make use of the markdown markup for verbatim code blocks to render it nicely in monospace font.
 
-More on markdown-formating can be found at this [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) from `adam-p`.
+More on markdown-formating can be found at this [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) from `adam-p` or the official [GitHub Guide to Markdown](https://guides.github.com/features/mastering-markdown/).
 
