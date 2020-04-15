@@ -21,6 +21,7 @@ Each week we will release a set of exercises grouped into assessments.
 
 * [GitHub and Markdown](assignment1.md#exercise-1)
 * [Unix Shell](assignment1.md#exercise-2)
+* [git](assignment1.md#exercise-3)
 
 ## Syllabus
 
