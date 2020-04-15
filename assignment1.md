@@ -36,3 +36,15 @@ To submit your solution, copy the commands and their outputs from the shell (inc
 
 More on markdown-formating can be found at this [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) from `adam-p` or the official [GitHub Guide to Markdown](https://guides.github.com/features/mastering-markdown/).
 
+## Exercise 3
+
+* Play around with the [git visualization tool](https://git-school.github.io/visualizing-git/) shown in the lecture. Create some commits, branches and tags there and watch the graph grow. (Hint: typing help will show you all the available commands.)
+* Make a screenshot of your work when you’re finished.
+* Save the screenshot on your machine to your working directory (where you cloned this assignment into).
+* On the command line:
+  * navigate to the directory
+  * check your git status
+  * add the new file to git
+  * and commit the change.
+* Finally, push your changes to the remote repository.
+* Visit your repository on GitHub to verify that your new file is present. 
