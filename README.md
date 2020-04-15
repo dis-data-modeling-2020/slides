@@ -12,6 +12,7 @@ The following slide sets are available:
 
 * __01 Introduction, Markdown__ [[pdf](DIS08-01-introduction.pdf)] | [[video](https://youtu.be/RbuWN0Ag-jU)]
 * __02 Unix Shell__ [[pdf](DIS08-02-shell.pdf)] | [[video](https://youtu.be/RbuWN0Ag-jU)] | [[setup the shell](https://librarycarpentry.org/lc-shell/setup.html)]
+* __03 Git & GitHub__ [[pdf](DIS08-03-git-github.pdf)] | [[video](https://youtu.be/RbuWN0Ag-jU)] | [[download git](https://git-scm.com/downloads)]
 
 ## Assessments
 
