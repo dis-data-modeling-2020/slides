@@ -16,14 +16,19 @@ The following slide sets are available:
 
 ## Assignment
 
-
-Each week we will release a set of exercises grouped into assessments. 
+Each week we will release a set of exercises grouped into assessments. Compile all your results into your GitHub repository. We will gather all your results from your repositories on the day of the submission deadlines. You are not required to send anything directly to us.
 
 ### Assignment 1
 
+Assignment 1 is a personal assignment. Each student has to compile his/her own results. The submission deadline is 2020-05-22, 23:59:59. 
+
 * [GitHub and Markdown](assignment1.md#exercise-1)
 * [Unix Shell](assignment1.md#exercise-2)
-* [git](assignment1.md#exercise-3)
+* [Git & GitHub](assignment1.md#exercise-3)
+
+### Assignment 2
+
+Assignment 2 is a group assignment. You will work in gropus of 3-4 students. The submission deadline is 2020-07-31, 23:59:59. 
 
 ## Syllabus
 
