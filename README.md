@@ -2,7 +2,7 @@
 
 ## Online collaboration with Microsoft Teams
 
-Please join our [Microsoft Teams channel](https://teams.microsoft.com/l/team/19%3a7c8c735f15194ac38727539ef94de964%40thread.tacv2/conversations?groupId=9d9727c3-4f98-4c1e-ab55-0c25274b8364&tenantId=35f8765e-cb47-4d80-afaf-42ff7060fddf). If you are not registered yet, send an email to your [instructor](mailto:philipp.schaer@th-koeln.de). 
+Please join our [Microsoft Teams channel](https://teams.microsoft.com/l/team/19%3a7c8c735f15194ac38727539ef94de964%40thread.tacv2/conversations?groupId=9d9727c3-4f98-4c1e-ab55-0c25274b8364&tenantId=35f8765e-cb47-4d80-afaf-42ff7060fddf). You can self-register using the following code: ```83nzhzy```. 
 
 ## Slides and online lecture archive
 
