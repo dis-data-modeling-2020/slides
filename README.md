@@ -25,7 +25,7 @@ Assignment 1 is a personal assignment. Each student has to compile his/her own r
 
 * [GitHub and Markdown](assignment1.md#exercise-1)
 * [Unix Shell](assignment1.md#exercise-2)
-* [Git & GitHub](assignment1.md#exercise-3)
+* [Git & GitHub](assignment1.md#exercise-3) [[tutorial slides](DIS08-03-tutorial.pdf)]
 * [Regular Expressions](assignment1.md#exercise-4)
 
 ### Assignment 2
