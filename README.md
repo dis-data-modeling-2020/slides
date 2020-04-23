@@ -13,6 +13,7 @@ The following slide sets are available:
 * __01 Introduction, Markdown__ [[pdf](DIS08-01-introduction.pdf)] | [[video](https://youtu.be/RbuWN0Ag-jU)]
 * __02 Unix Shell__ [[pdf](DIS08-02-shell.pdf)] | [[video](https://www.youtube.com/watch?v=Z2w8fKnrw0w)] | [[setup the shell](https://librarycarpentry.org/lc-shell/setup.html)] | [[dataset](https://librarycarpentry.org/lc-shell/data/shell-lesson.zip)]
 * __03 Git & GitHub__ [[pdf](DIS08-03-git-github.pdf)] | [[video](https://youtu.be/tCmJNvXzibI)] | [[download git](https://git-scm.com/downloads)]
+* __04 Regular Expressions__ [[pdf](DIS08-04-regex.pdf)] | [[video](https://www.youtube.com/watch?v=pAhn4xw7hZU)] | [[RegExOne](https://regexone.com)]
 
 ## Assignment
 
@@ -25,6 +26,7 @@ Assignment 1 is a personal assignment. Each student has to compile his/her own r
 * [GitHub and Markdown](assignment1.md#exercise-1)
 * [Unix Shell](assignment1.md#exercise-2)
 * [Git & GitHub](assignment1.md#exercise-3)
+* [Regular Expressions](assignment1.md#exercise-4)
 
 ### Assignment 2
 
