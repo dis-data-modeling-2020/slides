@@ -14,7 +14,7 @@ The following slide sets are available:
 * __02 Unix Shell__ [[pdf](DIS08-02-shell.pdf)] | [[video](https://www.youtube.com/watch?v=Z2w8fKnrw0w)] | [[setup the shell](https://librarycarpentry.org/lc-shell/setup.html)] | [[dataset](https://librarycarpentry.org/lc-shell/data/shell-lesson.zip)]
 * __03 Git & GitHub__ [[pdf](DIS08-03-git-github.pdf)] | [[video](https://youtu.be/tCmJNvXzibI)] | [[download git](https://git-scm.com/downloads)]
 * __04 Regular Expressions__ [[pdf](DIS08-04-regex.pdf)] | [[video](https://www.youtube.com/watch?v=pAhn4xw7hZU)] | [[RegExOne](https://regexone.com)]
-* __05 Tidy Data__ [[pdf](DIS08-05-tidydata.pdf)]
+* __05 Tidy Data__ [[pdf](DIS08-05-tidydata.pdf)] | [[video](https://www.youtube.com/watch?v=UhDk6CD16BA)]
 
 ## Assignment
 
@@ -24,11 +24,11 @@ Each week we will release a set of exercises grouped into assessments. Compile a
 
 Assignment 1 is a personal assignment. Each student has to compile his/her own results. The submission deadline is `2020-05-22, 23:59:59`. 
 
-* [GitHub and Markdown](assignment1.md#exercise-1)
-* [Unix Shell](assignment1.md#exercise-2)
-* [Git & GitHub](assignment1.md#exercise-3) [[tutorial slides](DIS08-03-tutorial.pdf)]
-* [Regular Expressions](assignment1.md#exercise-4)
-* [Tidy Data](assignment1.md#exercise-5)
+* [GitHub and Markdown](assignment1.md#exercise-1) (3 points)
+* [Unix Shell](assignment1.md#exercise-2) (3 points)
+* [Git & GitHub](assignment1.md#exercise-3) (5 points) [[tutorial slides](DIS08-03-tutorial.pdf)]
+* [Regular Expressions](assignment1.md#exercise-4) (6 points)
+* [Tidy Data](assignment1.md#exercise-5) (8 points)
 
 ### Assignment 2
 
