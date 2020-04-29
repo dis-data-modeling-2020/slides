@@ -79,7 +79,7 @@ Push all commits to your repository.
 
 ## Exercise 5 (8 points)
 
-In this exercise, you will be working with the dataset (lotr_scripts.csv). The original data set can be found on [Kaggle](https://www.kaggle.com/paultimothymooney/lord-of-the-rings-data). 
+In this exercise, you will be working with the dataset [`lotr_scripts.csv`](lotr_scripts.csv). The original data set can be found on [Kaggle](https://www.kaggle.com/paultimothymooney/lord-of-the-rings-data). 
 
 1. Document the different data fields. (1 point)
 2. Identify "dirty" data fields and clean them up. Use regex replace, spreadsheets or whatever you like. Document your working steps in a file `exercise05.md`. Export your data set as a clean CSV file. Add both files to your repository. (5 points)
