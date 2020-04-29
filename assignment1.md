@@ -1,6 +1,6 @@
 # Assignment 1
 
-## Exercise 1 
+## Exercise 1 (3 points)
 
 Create a GitHub account and join the [GitHub classroom](https://classroom.github.com/a/no15MntJ).
 
@@ -20,7 +20,7 @@ Make use of some Markdown formatting like headings and lists when answering thes
 
 Below the editor, leave the option "Commit directly to the master branch." checked and click "Commit new file".
 
-## Exercise 2 
+## Exercise 2 (3 points)
 
 ### Task 1
 Complete the lessons from the interactive online course at [linuxjourney.com](https://linuxjourney.com/lesson/the-shell) on learning the command line. Do the quizes in each of the lectures.
@@ -36,7 +36,7 @@ To submit your solution, copy the commands and their outputs from the shell (inc
 
 More on markdown-formating can be found at this [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) from `adam-p` or the official [GitHub Guide to Markdown](https://guides.github.com/features/mastering-markdown/).
 
-## Exercise 3
+## Exercise 3 (5 points)
 
 1. Clone your own repository into your local file system.
 2. Play around with the [git visualization tool](https://git-school.github.io/visualizing-git/) shown in the lecture. Create some commits, branches and tags there and watch the graph grow. (Hint: typing help will show you all the available commands.)
@@ -49,7 +49,7 @@ More on markdown-formating can be found at this [markdown cheatsheet](https://gi
   * Finally, push your changes to the remote repository.
 5. Visit your repository on GitHub to verify that your new file is present. 
 
-## Exercise 4
+## Exercise 4 (6 points)
 
 Download the dataset [`shell-lesson.zip`](https://librarycarpentry.org/lc-shell/data/shell-lesson.zip) from the previous lecture 02 and unzip it.
 
@@ -76,3 +76,17 @@ Additionally, create a text file `exercise04.md` and comment on each solution. T
 * and explain what you did and why.
 
 Push all commits to your repository.
+
+## Exercise 5 (8 points)
+
+In this exercise, you will be working with the dataset (lotr_scripts.csv). The original data set can be found on [Kaggle](https://www.kaggle.com/paultimothymooney/lord-of-the-rings-data). 
+
+1. Document the different data fields. (1 point)
+2. Identify "dirty" data fields and clean them up. Use regex replace, spreadsheets or whatever you like. Document your working steps in a file `exercise05.md`. Export your data set as a clean CSV file. Add both files to your repository. (5 points)
+3. Analyze the data set using shell scripts and/or regex. Document the commands in an additional section in `exercise05.md`. (2 points)
+    * Find the total number of lines and unique words used in the dialogs. (0.5p)
+    * What is the distribution on the three different films? (0.5p)
+    * What are the top 5 characters in the char column? (0.5p)
+    * What are the top 5 characters in the dialogs? (0.5p)
+
+Documentation is key! Everything that is **not properly documented** is not verifyable by us and will thus get **0 points**.
