@@ -39,3 +39,7 @@ Assignment 2 is a group assignment. You will work in gropus of 3-4 students. The
 The following syllabus is an overview on the topics I plan to cover in this semester. Due to the Corona Crisis all these topics are not fixed. Stay tuned!
 
 ![syllabus](syllabus.png)
+
+## Fun
+
+* Programing: Expectations vs Reality [[imgur](https://imgur.com/gallery/laOofrv)]
