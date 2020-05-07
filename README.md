@@ -4,6 +4,10 @@
 
 Please join our [Microsoft Teams channel](https://teams.microsoft.com/l/team/19%3a7c8c735f15194ac38727539ef94de964%40thread.tacv2/conversations?groupId=9d9727c3-4f98-4c1e-ab55-0c25274b8364&tenantId=35f8765e-cb47-4d80-afaf-42ff7060fddf). You can self-register using the following code: ```83nzhzy```. 
 
+## Open questions and FAQ in the GitHub wiki
+
+Please open up an [issue ticket](https://github.com/dis-data-modeling-2020/slides/issues) in this repository if there are any questions or issues related to the slides, lectures or assignments. I try to keep an [FAQ in the Wiki](https://github.com/dis-data-modeling-2020/slides/wiki) of this GitHub site. Feel free to comment and post you own entries to this FAQ.
+
 ## Slides and online lecture archive
 
 Please feel free to comment on all the slides available. Open up a ticket if you find anything I should update or fix. 
