@@ -18,7 +18,7 @@ The following slide sets are available:
 * __02 Unix Shell__ [[pdf](DIS08-02-shell.pdf)] | [[video](https://www.youtube.com/watch?v=Z2w8fKnrw0w)] | [[setup the shell](https://librarycarpentry.org/lc-shell/setup.html)] | [[dataset](https://librarycarpentry.org/lc-shell/data/shell-lesson.zip)]
 * __03 Git & GitHub__ [[pdf](DIS08-03-git-github.pdf)] | [[video](https://youtu.be/tCmJNvXzibI)] | [[download git](https://git-scm.com/downloads)]
 * __04 Regular Expressions__ [[pdf](DIS08-04-regex.pdf)] | [[video](https://www.youtube.com/watch?v=pAhn4xw7hZU)] | [[RegExOne](https://regexone.com)]
-* __05 Tidy Data__ [[pdf](DIS08-05-tidydata.pdf)] | [[video](https://www.youtube.com/watch?v=UhDk6CD16BA)]
+* __05 Tidy Data__ [[pdf](DIS08-05-tidydata.pdf)] | [[video](https://www.youtube.com/watch?v=UhDk6CD16BA)] | [[Open Refine](https://openrefine.org/download.html)]
 * __06 Basic Data Processing with Python__ [[notebook](DIS08-06-python-data.ipynb)] [[video](https://www.youtube.com/watch?v=oRbslBJp71g)]
 
 
