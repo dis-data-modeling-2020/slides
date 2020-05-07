@@ -21,6 +21,10 @@ The following slide sets are available:
 * __05 Tidy Data__ [[pdf](DIS08-05-tidydata.pdf)] | [[video](https://www.youtube.com/watch?v=UhDk6CD16BA)] | [[Open Refine](https://openrefine.org/download.html)]
 * __06 Basic Data Processing with Python__ [[notebook](DIS08-06-python-data.ipynb)] [[video](https://www.youtube.com/watch?v=oRbslBJp71g)]
 
+## Additional materials 
+
+* [How to clean up Git mess](http://justinhileman.info/article/git-pretty/git-pretty.pdf) - Handy flowchart about how you can get out of some git mess
+* [Git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf) - The most important and commonly used Git commands for easy reference
 
 ## Assignment
 
