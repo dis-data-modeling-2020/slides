@@ -1,4 +1,4 @@
-id;char;dialog;movie
+﻿;char;dialog;movie
 0;DEAGOL;Oh Smeagol Ive got one! , Ive got a fish Smeagol, Smeagol!    ;The Return of the King 
 1;SMEAGOL;Pull it in! Go on, go on, go on, pull it in!  ;The Return of the King 
 2;DEAGOL;Arrghh! ;The Return of the King 
@@ -260,7 +260,7 @@ id;char;dialog;movie
 258;EOMER;The scouts report Minas Tirith is surrounded. The lower level's in flames. Everywhere, legions of the enemy advance.  ;The Return of the King 
 259;THEODEN;Time is against us. Make ready! ;The Return of the King 
 260;EOWYN;Take heart Merry. , It will soon be over ;The Return of the King 
-261;MERRY;My lady. You are fair and brave and have much to live for    , and many who love you. I     know it is too late to turn aside. I know there is not much point now in     hoping. If I were a knight of Rohan capable of great deeds'but I'm not. I'm a Hobbit. And I know I can't save Middle Earth. I just want to help my friends: Frodo, Sam, Pippin. More than anything I wish I could see them again. ;The Return of the King 
+261;MERRY;"My lady. You are fair and brave and have much to live for    , and many who love you. I     know it is too late to turn aside. I know there is not much point now in     hoping. If I were a knight of Rohan capable of great deeds'but I'm not. I'm a Hobbit. And I know I can't save Middle Earth. I just want to help my friends; Frodo, Sam, Pippin. More than anything I wish I could see them again. ";The Return of the King 
 262;EOMER;Prepare to move out!  ;The Return of the King 
 263;THEODEN;Make haste. We ride through the night.  ;The Return of the King 
 264;EOWYN;To battle ;The Return of the King 
