@@ -4,7 +4,7 @@
 
 Form a team of 3-4 students. Give your team a cool name like [The Be Sharps](https://www.youtube.com/watch?v=CWbW1jtFQUo) or [The Blernsballs](https://www.youtube.com/watch?v=oQF8rQaIjUE&list=RDzfvpeVe_i1A)... You get the idea. Fill in your name into the [corresponding list](teams.csv) at GitHub.
 
-## Exercise 1 (4 points)
+## Exercise 1 
 
 We continue with the Lord of the Rings data set and try to reproduce some of the exercises we did with shell and grep.
 
