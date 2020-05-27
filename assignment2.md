@@ -4,7 +4,7 @@
 
 Form a team of 3-4 students. Give your team a cool name like [The Be Sharps](https://www.youtube.com/watch?v=CWbW1jtFQUo) or [The Blernsballs](https://www.youtube.com/watch?v=oQF8rQaIjUE&list=RDzfvpeVe_i1A)... You get the idea. Fill in your name into the [corresponding list](teams.csv) at GitHub.
 
-## Exercise 1
+## Exercise 1 (4 points)
 
 We continue with the Lord of the Rings data set and try to reproduce some of the exercises we did with shell and grep.
 
@@ -18,10 +18,10 @@ Commit your Python program and the resulting CSV files.
 
 ## Excercise 2
 
-### Task 1
+### Task 1 (5 points)
 Write a Python program `csv2json` to convert a given CSV file into a JSON file. This conversion should be generic as possible and able to convert different types of CSV files. For the beginning try to make it work with the `lotr_clean.txt` file I uploaded to GitHub. Think about the generic parts. Where do the JSON key names come from? What about different types of separators? Try to build your program from "simple" to "a bit more complex" and think about how to split the development within your group. Document your program and remember to commit early and commit often.
 
-### Task 2
+### Task 2 (6 points)
 Your task is to transform a dataset on movies since 1950. Download the dataset movie_data.json from our Github repository. Write a Python program to:
 
 1. read in the data from the JSON file,
@@ -35,4 +35,5 @@ year|Action|Adventure|Animation|...
 1950|39|42|65|...
 1951|...|...|...|...
 
-Bonus: Create some interesting figures (in spreadsheet software, with R or any other visualitation software you know) on the development of genres over time.
+### Bonus (up to 5 points)
+Create some interesting figures (in spreadsheet software, with R or any other visualitation software you know) on the development of genres over time.
