@@ -2,7 +2,8 @@
 
 ## Excercie 0
 
-Form a team of 3-4 students. Give your team a cool name like [The Be Sharps](https://www.youtube.com/watch?v=CWbW1jtFQUo) or [The Blernsballs](https://www.youtube.com/watch?v=oQF8rQaIjUE&list=RDzfvpeVe_i1A)... You get the idea. Fill in your name into the [corresponding list](teams.csv) at GitHub.
+Form a team of 3-4 students. Give your team a cool name like [The Be Sharps](https://www.youtube.com/watch?v=CWbW1jtFQUo) or [The Blernsballs](https://www.youtube.com/watch?v=oQF8rQaIjUE&list=RDzfvpeVe_i1A)... You get the idea. 
+When your team forming process is done, join the [GitHub Classroom](https://classroom.github.com/g/amhiWzvg) for assignment 2. Your team can then collaborate via GitHub.
 
 ## Exercise 1 
 
