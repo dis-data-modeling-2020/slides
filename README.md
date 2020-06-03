@@ -19,7 +19,7 @@ The following slide sets are available:
 * __03 Git & GitHub__ [[pdf](DIS08-03-git-github.pdf)] | [[video](https://youtu.be/tCmJNvXzibI)] | [[download git](https://git-scm.com/downloads)]
 * __04 Regular Expressions__ [[pdf](DIS08-04-regex.pdf)] | [[video](https://www.youtube.com/watch?v=pAhn4xw7hZU)] | [[RegExOne](https://regexone.com)]
 * __05 Tidy Data__ [[pdf](DIS08-05-tidydata.pdf)] | [[video](https://www.youtube.com/watch?v=UhDk6CD16BA)] | [[Open Refine](https://openrefine.org/download.html)]
-* __06 Basic Data Processing with Python__ [[notebook](DIS08-06-python-data.ipynb)] [[video](https://www.youtube.com/watch?v=oRbslBJp71g)]
+* __06 Basic Data Processing with Python__ [[notebook](DIS08-06-python-data.ipynb)] | [[video](https://www.youtube.com/watch?v=oRbslBJp71g)]
 * __07 CSV and JSON in Python__ [[notebook](DIS08-07-python-formats.ipynb)] | [[video](https://youtu.be/9sKu8LT1HVc)]
 * __08 Web Scraping__ [[notebook](DIS08-08-webscraping.ipynb)] | 
 
