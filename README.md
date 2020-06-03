@@ -20,7 +20,8 @@ The following slide sets are available:
 * __04 Regular Expressions__ [[pdf](DIS08-04-regex.pdf)] | [[video](https://www.youtube.com/watch?v=pAhn4xw7hZU)] | [[RegExOne](https://regexone.com)]
 * __05 Tidy Data__ [[pdf](DIS08-05-tidydata.pdf)] | [[video](https://www.youtube.com/watch?v=UhDk6CD16BA)] | [[Open Refine](https://openrefine.org/download.html)]
 * __06 Basic Data Processing with Python__ [[notebook](DIS08-06-python-data.ipynb)] [[video](https://www.youtube.com/watch?v=oRbslBJp71g)]
-* __07 CSV and JSON in Python__ [[notebook](DIS08-07-python-formats.ipynb)] [[video](https://youtu.be/9sKu8LT1HVc)]
+* __07 CSV and JSON in Python__ [[notebook](DIS08-07-python-formats.ipynb)] | [[video](https://youtu.be/9sKu8LT1HVc)]
+* __08 Web Scraping__ [[notebook](DIS08-08-webscraping.ipynb)] | 
 
 ## Additional materials 
 
@@ -47,7 +48,8 @@ Assignment 1 is a personal assignment. Each student has to compile his/her own r
 Assignment 2 is a group assignment. You will work in gropus of 3-4 students. The submission deadline is `2020-07-31, 23:59:59`. 
 
 * [Python Data Format](assignment2.md#exercise-1) (4 points)
-* [Python CSV and JSON](assignment2.md#exercise-2) (5+6+5 points)
+* [Python CSV and JSON](assignment2.md#exercise-2) (5+6 points and max 5 bonus points)
+* [Web Scraping the Wikipedia](assignment2.md#exercise-2) (10 points)
 
 ## Syllabus
 
