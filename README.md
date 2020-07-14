@@ -43,6 +43,8 @@ Assignment 1 is a personal assignment. Each student has to compile his/her own r
 * [Regular Expressions](assignment1.md#exercise-4) (6 points)
 * [Tidy Data](assignment1.md#exercise-5) (8 points)
 
+The results of assignment 1 are online! [Common mistakes and the final scores](results1.md) are available. 
+
 ### Assignment 2
 
 Assignment 2 is a group assignment. You will work in gropus of 3-4 students. The submission deadline is `2020-07-31, 23:59:59`. 
