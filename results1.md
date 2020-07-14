@@ -1,5 +1,9 @@
 # Results of Assignment 1
 
+## Scores
+
+I put the score in an EXCEL file on Sciebo: https://th-koeln.sciebo.de/s/uP3hCLBZHagmW93
+
 ## Common mistakes
 
 ### A1E1
@@ -42,6 +46,4 @@
 * description of data fields too short
 * document working steps on a more abstract level, do not report every button click, but missing to document the overall processing step
 * reporting letters instead of cast of characters
-
-## Scores
 
