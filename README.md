@@ -53,6 +53,8 @@ Assignment 2 is a group assignment. You will work in gropus of 3-4 students. The
 * [Python CSV and JSON](assignment2.md#exercise-2) (5+6 points and max 5 bonus points)
 * [Web Scraping the Wikipedia](assignment2.md#exercise-2) (10 points)
 
+The results of assignment 2 are online! [Common mistakes and the final scores](results2.md) are available. 
+
 ## Syllabus
 
 The following syllabus is an overview on the topics I plan to cover in this semester. Due to the Corona Crisis all these topics are not fixed. Stay tuned!
